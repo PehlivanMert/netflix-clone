@@ -1,8 +1,8 @@
 # Netflix clone with React
 This is a Netflix clone built with React. It uses the TMDB API to fetch movies and display them. The app is fully responsive and has a clean and modern design.
 
-## Live demo
-[Live demo](https://netlifiks.netlify.app/)
+## [Live demo](https://netlifiks.netlify.app/)
+
 ## Features
 - Fetch movies from the TMDB API
 - Display movies in different categories
